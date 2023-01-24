@@ -1,2 +1,1 @@
-# solucionario
-Solucionario del libro: Fundamentos de Matemáticas
+#Solucionario del libro: Fundamentos de Matemáticas

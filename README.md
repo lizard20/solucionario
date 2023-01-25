@@ -1,1 +1,1 @@
-## Solucionario del libro: Fundamentos de Matemáticas
+## Solucionario a problemas selectos del libro: Fundamentos de Matemáticas
